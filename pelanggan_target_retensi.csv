@@ -1,0 +1,383 @@
+,state,account length,international plan,voice mail plan,customer service calls,total day minutes,total day charge,probabilitas_churn,Segmen Risiko,early_warning,rekomendasi_tindakan
+2647,SC,116,no,no,0,288.0,48.96,0.984067901022306,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+605,MO,112,no,no,2,335.5,57.04,0.9749087899157545,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+629,GA,76,no,no,0,299.5,50.92,0.9719980594978549,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2388,SC,161,no,no,1,297.9,50.64,0.9702701241211719,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2038,TX,136,no,no,1,269.8,45.87,0.9658799338069985,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2113,NJ,60,no,no,2,289.8,49.27,0.9646411878942281,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+1679,OK,82,no,no,0,329.8,56.07,0.9635567039339208,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+3072,TX,75,no,no,0,305.1,51.87,0.9620134942463456,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+365,CO,154,no,no,1,350.8,59.64,0.9605277098955494,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+914,MO,179,no,no,0,287.3,48.84,0.9599217015351956,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+552,GA,44,no,no,3,288.1,48.98,0.9591256848079871,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+832,SC,87,no,no,2,322.5,54.83,0.9568951443530878,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2356,FL,105,no,no,2,273.8,46.55,0.9564770115981606,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2696,MI,74,no,no,3,314.1,53.4,0.9550447789423124,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+2708,MI,132,no,no,1,291.2,49.5,0.9521075303018841,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2155,AL,172,no,no,2,270.0,45.9,0.9446738061803408,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+3132,NC,161,no,no,2,322.3,54.79,0.9445624018523735,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+3113,HI,108,no,no,2,291.6,49.57,0.9433044304944629,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2103,NH,74,no,no,2,298.1,50.68,0.9428744725663868,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+117,NV,74,no,no,1,282.5,48.03,0.9423175957529526,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2908,NV,148,no,no,2,279.3,47.48,0.9397319851421344,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+3268,WA,84,no,no,2,289.1,49.15,0.9396782626971308,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+3265,ID,82,no,no,3,266.9,45.37,0.9390848584699777,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+1794,NY,54,no,no,1,286.6,48.72,0.9386110484409238,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+1350,WA,55,no,no,0,285.7,48.57,0.9383745207804158,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+1881,NE,76,no,no,0,272.7,46.36,0.9381100878920362,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2924,WA,96,no,no,1,276.9,47.07,0.9377843571030078,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2099,MA,71,no,no,3,290.4,49.37,0.937292239388846,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+3045,MN,57,no,no,2,272.7,46.36,0.9369160261710187,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+1701,MA,34,no,no,2,293.7,49.93,0.9367565502753922,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+619,KS,110,yes,no,0,293.3,49.86,0.9355651152846253,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang + Optimasi Paket Tarif Internasional Hemat
+289,OK,89,no,no,1,303.9,51.66,0.9348118720132529,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2325,UT,110,no,no,2,271.1,46.09,0.9346553682367666,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2354,MT,102,no,no,2,273.2,46.44,0.9319118229531661,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+3301,CA,84,no,no,0,280.0,47.6,0.9318126935248279,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+1691,OR,95,no,no,2,269.0,45.73,0.9316041194650294,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+3205,MS,111,no,no,1,294.7,50.1,0.9300361681344562,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+3064,CO,130,no,no,4,271.8,46.21,0.9298470625842422,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+2536,CT,119,no,no,0,294.2,50.01,0.9287315541222917,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+1898,VT,159,no,no,2,275.8,46.89,0.9277077617119461,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+978,VT,63,no,no,4,278.0,47.26,0.9272274037791436,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+156,OH,83,no,no,0,337.4,57.36,0.9271091643806117,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+975,DE,129,no,no,0,334.3,56.83,0.9263820135555545,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+1878,KY,39,no,no,1,295.4,50.22,0.9258391885931616,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+859,AL,93,no,no,3,267.9,45.54,0.9225739087710324,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+660,MT,109,no,no,1,264.7,45.0,0.9217347508667167,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2401,NY,126,yes,no,1,239.7,40.75,0.92126941777622,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+76,DC,82,no,no,0,300.3,51.05,0.9210351224690158,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+3322,MD,62,no,no,4,321.1,54.59,0.9201234606270607,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+1736,NV,115,no,no,1,286.4,48.69,0.9198563392716951,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2451,NC,182,no,no,2,279.5,47.52,0.9178044485423569,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+1231,CO,105,no,no,0,270.9,46.05,0.9170576488131955,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+1078,ME,80,no,no,0,322.3,54.79,0.9169678013193541,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+3002,WA,177,no,no,3,266.1,45.24,0.9156418856272043,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+454,OH,97,no,no,1,256.4,43.59,0.9147890945064938,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+33,AZ,12,no,no,1,249.6,42.43,0.9086239361576217,Risiko Tinggi,False,Voucher Retensi & Penyesuaian Paket
+2267,MS,29,no,no,2,313.2,53.24,0.907106296227621,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+1646,MN,173,no,no,0,291.8,49.61,0.906453654608364,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+1420,MI,81,yes,no,3,149.4,25.4,0.9061789163664868,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+455,MA,88,no,no,1,264.8,45.02,0.9059895981819983,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+737,KY,91,yes,no,2,145.0,24.65,0.9050371434908436,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1593,KS,105,yes,no,1,273.9,46.56,0.9036031321658263,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang + Optimasi Paket Tarif Internasional Hemat
+1893,IN,68,no,no,2,249.9,42.48,0.9029385191698435,Risiko Tinggi,False,Voucher Retensi & Penyesuaian Paket
+1934,HI,105,no,no,0,281.3,47.82,0.9025887651771004,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+306,VT,113,no,no,1,272.1,46.26,0.9025125264440957,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2747,MD,147,no,no,0,274.0,46.58,0.902185416322453,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+301,FL,127,no,no,1,266.6,45.32,0.9008969570322154,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2839,SC,112,no,no,2,266.0,45.22,0.9007784637356075,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2595,AL,25,no,no,1,264.9,45.03,0.900443395868037,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2115,CA,138,yes,no,0,196.2,33.35,0.8993856566322883,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+911,AR,118,no,no,5,267.8,45.53,0.8992391133224432,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+901,CT,23,no,no,2,321.6,54.67,0.8985596948784101,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+1674,NV,76,yes,no,1,241.0,40.97,0.8984754176410903,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1739,NJ,80,no,no,2,268.7,45.68,0.897550169720374,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+3272,MD,133,no,no,2,295.0,50.15,0.897470735132899,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2573,WV,124,no,no,1,312.0,53.04,0.8960872635747663,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2926,IN,72,no,no,4,287.4,48.86,0.8949408505798111,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+1339,WA,90,yes,no,4,148.2,25.19,0.8948609340930294,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+2203,PA,97,yes,no,4,145.0,24.65,0.8934706549640845,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+2889,CT,93,no,no,1,271.1,46.09,0.8923921009644471,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2824,OR,81,no,no,0,324.7,55.2,0.8920573525513591,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2001,TX,73,no,no,1,286.4,48.69,0.8903208707678433,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+787,NJ,24,no,no,2,265.6,45.15,0.8899907279062277,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+3238,WA,121,no,no,3,255.1,43.37,0.8883811904192932,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+1692,PA,79,no,no,1,268.3,45.61,0.8881884659806976,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+1984,TN,112,no,no,3,272.5,46.33,0.8877953532074226,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+2942,GA,117,yes,no,1,287.4,48.86,0.887614087394396,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang + Optimasi Paket Tarif Internasional Hemat
+3112,AR,115,no,no,7,139.3,23.68,0.8845463044163133,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+946,NJ,46,no,no,2,257.4,43.76,0.8841653262643923,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2874,WY,134,no,no,0,296.0,50.32,0.8840073797410859,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2215,MS,13,no,no,0,303.2,51.54,0.8833162748263875,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+1334,KS,126,no,no,1,321.3,54.62,0.8816882862477344,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2947,ND,145,no,no,1,245.8,41.79,0.8812051957668998,Risiko Tinggi,False,Voucher Retensi & Penyesuaian Paket
+985,NY,64,yes,no,1,346.8,58.96,0.8809501164528899,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang + Optimasi Paket Tarif Internasional Hemat
+2660,NJ,88,no,no,4,301.5,51.26,0.8807030805068761,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+2407,TX,139,yes,yes,1,203.5,34.6,0.8796310329623043,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+15,NY,161,no,no,4,332.9,56.59,0.879614285146605,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+2515,MD,111,no,no,5,123.1,20.93,0.879609018537073,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1472,MD,76,yes,no,1,273.3,46.46,0.8795038657154723,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang + Optimasi Paket Tarif Internasional Hemat
+3079,WV,88,no,no,5,131.5,22.36,0.8793491002185677,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1302,WA,171,no,no,1,270.5,45.99,0.8792331258087296,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+1284,OR,135,no,no,5,263.8,44.85,0.8771681854057092,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+2581,NY,123,no,no,4,123.2,20.94,0.8769679668953959,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+815,KY,75,no,no,2,314.6,53.48,0.8761095422660028,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+521,SC,88,no,no,4,73.3,12.46,0.8755906383870256,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+331,MT,54,no,no,1,272.6,46.34,0.8747517965835863,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+126,MS,162,no,no,4,70.7,12.02,0.8742003857102245,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+415,DE,113,no,no,2,239.7,40.75,0.8739318764914825,Risiko Tinggi,False,Voucher Retensi & Penyesuaian Paket
+2420,MN,100,yes,no,2,159.9,27.18,0.873851702475867,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1662,AL,197,yes,no,5,127.3,21.64,0.8732420667416549,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+1155,KS,167,no,no,4,131.6,22.37,0.873241195548949,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2542,SC,19,no,no,1,259.4,44.1,0.8726811932353621,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2347,IL,68,yes,yes,1,195.5,33.24,0.8713561766003399,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1346,PA,106,yes,no,1,133.7,22.73,0.8691845740173348,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+2412,WI,89,no,no,1,326.3,55.47,0.8688846860672524,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2376,NV,42,no,no,1,303.9,51.66,0.8669989498527303,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2936,OK,44,no,no,0,288.8,49.1,0.8659987089091087,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2884,UT,170,no,no,1,285.7,48.57,0.8656597765829497,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2119,CA,111,no,no,0,249.8,42.47,0.8648056418204839,Risiko Tinggi,False,Voucher Retensi & Penyesuaian Paket
+1392,OK,101,no,no,3,269.7,45.85,0.8630441407411967,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+1713,MO,76,no,no,5,129.7,22.05,0.8629476914698965,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+871,MA,98,no,no,4,271.4,46.14,0.862830732518109,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+715,WV,115,yes,no,1,249.9,42.48,0.8623133075542404,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+2694,MN,125,no,no,0,240.7,40.92,0.8621916766030987,Risiko Tinggi,False,Voucher Retensi & Penyesuaian Paket
+2335,MN,124,yes,no,3,157.8,26.83,0.8612070749245491,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+3148,WA,60,yes,no,0,205.9,35.0,0.8610869616326886,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+933,KY,74,yes,no,1,125.8,21.39,0.8610537165458914,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1530,IA,81,no,no,1,261.4,44.44,0.8609298905811629,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2594,OH,115,yes,no,1,345.3,58.7,0.8608890421280359,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang + Optimasi Paket Tarif Internasional Hemat
+1467,DE,67,yes,yes,0,181.1,30.79,0.8606506102967028,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1977,SC,49,yes,no,2,237.8,40.43,0.8602335627713094,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+2397,MD,107,no,no,1,294.9,50.13,0.8601889394636508,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+1837,NH,117,yes,no,1,54.2,9.21,0.8599384927835528,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1768,MN,115,yes,no,2,122.0,20.74,0.8598598533373456,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1784,DE,51,yes,no,0,153.6,26.11,0.8597163575794866,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+2059,KS,94,no,no,3,269.2,45.76,0.858467470611368,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+41,MD,135,yes,yes,0,173.1,29.43,0.8584462995550547,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1121,MI,91,no,no,5,154.4,26.25,0.8571852649380941,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+492,ME,92,yes,no,2,130.7,22.22,0.8566554253365499,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+3209,OH,68,yes,yes,3,125.7,21.37,0.8565579378989681,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+2107,MN,123,no,no,2,236.2,40.15,0.8563681978900759,Risiko Tinggi,False,Voucher Retensi & Penyesuaian Paket
+2210,UT,71,no,no,0,278.9,47.41,0.8560478676802995,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+1849,PA,119,no,no,2,287.1,48.81,0.8560081087545057,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2112,LA,150,no,no,4,136.6,23.22,0.8558618880366453,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2987,NY,131,yes,no,3,122.3,20.79,0.8557375864436976,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+2028,SD,93,no,no,1,328.1,55.78,0.8551428007610773,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+1638,MD,116,no,no,6,159.4,27.1,0.8533051255117563,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+307,IN,122,no,no,4,296.4,50.39,0.8528598058089786,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+2076,NH,95,yes,no,4,228.9,38.91,0.8528347583207427,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+721,UT,103,no,yes,6,87.2,14.82,0.8525418870440877,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1919,WA,100,no,no,6,70.8,12.04,0.852121711465933,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1133,NV,64,no,no,5,148.1,25.18,0.8520831759309045,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+3144,NH,35,no,no,5,138.1,23.48,0.8518112598954716,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1484,AR,107,yes,no,3,133.3,22.66,0.8513322354669172,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+2290,NV,113,no,no,3,245.3,41.7,0.8512300818055831,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1752,NY,181,yes,no,0,161.3,27.42,0.8500868433818967,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+3035,ME,88,no,no,4,85.7,14.57,0.850047732170919,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+3169,ID,78,no,no,4,103.5,17.6,0.849786712658272,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+218,MD,136,no,no,1,250.2,42.53,0.8496663246249597,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+437,OH,100,no,no,0,278.0,47.26,0.8491004539062618,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+1538,WV,113,no,no,5,61.2,10.4,0.8483571940565804,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2989,MI,108,yes,no,2,115.1,19.57,0.8481593784515935,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+332,AL,86,no,no,7,128.3,21.81,0.8481463835443473,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1344,MA,111,no,no,0,284.4,48.35,0.8477449743569693,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+502,MI,93,yes,no,1,216.9,36.87,0.8464899366770388,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+378,MO,95,yes,no,1,165.5,28.14,0.8457365170048722,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1619,NH,149,no,no,4,119.2,20.26,0.8452373545978208,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1182,MD,172,no,no,3,287.1,48.81,0.8447449513656656,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+115,ME,36,yes,yes,0,196.8,33.46,0.8443158629570144,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+3291,MI,119,yes,yes,1,172.1,29.26,0.8441307946097819,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+2710,WV,63,no,no,0,261.8,44.51,0.8427470982325792,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+3189,WA,76,yes,no,0,246.8,41.96,0.840884583755103,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+797,VA,68,yes,no,1,148.5,25.25,0.8407443229242048,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+2968,CT,160,no,no,1,234.9,39.93,0.8406972728015701,Risiko Tinggi,False,Voucher Retensi & Penyesuaian Paket
+2664,NM,188,yes,yes,1,198.8,33.8,0.8400532229096771,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1869,MS,101,no,no,1,239.0,40.63,0.8396643317811738,Risiko Tinggi,False,Voucher Retensi & Penyesuaian Paket
+2971,MI,148,yes,no,0,233.5,39.7,0.8393773760684121,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1027,UT,161,yes,no,1,194.2,33.01,0.8393050442161271,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+2147,NE,126,no,no,3,249.8,42.47,0.8389579474180062,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2602,OK,86,yes,no,2,162.4,27.61,0.8389405097411633,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1273,MT,28,no,no,6,121.7,20.69,0.8388688059720416,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2800,SD,52,yes,no,0,251.4,42.74,0.8384275518791592,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang + Optimasi Paket Tarif Internasional Hemat
+3127,MT,100,no,no,4,113.3,19.26,0.8384055234560924,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+3226,ME,100,no,no,2,264.5,44.97,0.8374578912135113,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+258,KS,92,yes,no,1,62.6,10.64,0.8372005799279126,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+2662,VA,50,yes,no,2,99.6,16.93,0.8369185156009371,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+2760,IL,137,yes,no,0,237.3,40.34,0.8360479768268477,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1903,NJ,93,yes,yes,1,225.7,38.37,0.8359497174433713,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+2732,NC,130,yes,no,5,216.2,36.75,0.8357117415551686,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+1777,OR,149,no,no,3,242.5,41.23,0.8355971602339798,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+354,MS,64,yes,no,2,236.2,40.15,0.8349114843710234,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+2700,SC,209,no,no,3,255.1,43.37,0.8335647857473828,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+235,MN,139,no,no,5,134.4,22.85,0.8327440298688774,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+655,CA,79,no,no,5,157.6,26.79,0.8327424763222903,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1364,CT,115,no,no,1,245.0,41.65,0.8306647662485495,Risiko Tinggi,False,Voucher Retensi & Penyesuaian Paket
+2187,WA,167,no,no,4,169.2,28.76,0.8299089613819254,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+546,WI,69,yes,no,2,279.8,47.57,0.8295990811806754,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang + Optimasi Paket Tarif Internasional Hemat
+766,PA,122,yes,no,0,230.9,39.25,0.8288617650679291,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1892,WI,147,yes,no,0,225.2,38.28,0.828648609782447,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+77,NY,144,no,no,4,61.6,10.47,0.8286429406635742,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1278,NY,163,no,no,0,247.7,42.11,0.8276608472363731,Risiko Tinggi,False,Voucher Retensi & Penyesuaian Paket
+1842,WA,97,no,no,0,276.1,46.94,0.8275904882372057,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2327,NY,82,no,no,6,167.1,28.41,0.8268276656550895,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1635,AZ,66,no,no,4,154.0,26.18,0.8265910059065215,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2645,KS,91,yes,no,2,246.4,41.89,0.826233837323698,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+181,AK,126,no,no,5,58.2,9.89,0.8253225544095131,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2735,TX,90,yes,yes,0,169.0,28.73,0.8249626402669936,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1851,MO,85,no,no,5,165.8,28.19,0.8248842871139783,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1704,FL,144,no,no,1,278.5,47.35,0.8239536743242696,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+613,NV,105,yes,yes,1,220.7,37.52,0.8237678684334805,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+2677,IA,44,no,no,4,308.6,52.46,0.8237406639903203,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+144,VT,117,yes,no,2,167.1,28.41,0.823324560467001,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+360,CO,159,yes,no,1,257.1,43.71,0.8221534417003461,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang + Optimasi Paket Tarif Internasional Hemat
+736,UT,68,no,no,5,162.1,27.56,0.8216179330174707,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+3050,SC,101,no,no,4,158.4,26.93,0.8213433484045087,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1887,OK,105,yes,yes,0,156.1,26.54,0.8210743069763881,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1754,NC,54,yes,no,2,190.5,32.39,0.8209679268629174,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+2118,TX,37,yes,no,0,172.9,29.39,0.8207780909791434,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1601,AR,99,yes,no,0,242.3,41.19,0.8207131413518758,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1204,IL,78,yes,no,1,236.8,40.26,0.819710053354042,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+2258,TN,80,yes,no,1,276.5,47.01,0.8195168802209081,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang + Optimasi Paket Tarif Internasional Hemat
+1531,DE,138,yes,no,4,46.5,7.91,0.8192239557787693,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+89,NJ,128,no,no,1,237.9,40.44,0.8180312448315911,Risiko Tinggi,False,Voucher Retensi & Penyesuaian Paket
+1345,SD,98,no,no,4,0.0,0.0,0.8175184011364364,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+407,DE,122,no,no,4,157.1,26.71,0.8174130996040178,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2493,KY,21,no,no,5,92.6,15.74,0.8167632172789109,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2827,AL,89,no,no,5,129.2,21.96,0.8155986757904061,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2173,KS,47,yes,no,0,47.8,8.13,0.8145154140282505,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+241,NV,137,yes,no,2,135.1,22.97,0.8144578300678915,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1764,CT,77,no,no,0,245.2,41.68,0.8139694085441248,Risiko Tinggi,False,Voucher Retensi & Penyesuaian Paket
+86,IN,94,no,no,4,157.9,26.84,0.8125665658022709,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+416,DE,224,yes,no,1,171.5,29.16,0.8121713680489887,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+2415,DC,114,no,no,5,147.1,25.01,0.8119117094780584,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2428,MN,40,no,no,6,81.7,13.89,0.8116403271946189,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+904,MD,61,no,no,1,260.0,44.2,0.8114273982603454,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+214,FL,70,yes,no,2,226.7,38.54,0.8113995407548514,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+3243,AR,113,yes,no,5,122.2,20.77,0.8112567365741392,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+3304,IL,71,yes,no,4,186.1,31.64,0.8111902299035878,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+3241,AK,177,yes,no,1,248.7,42.28,0.8102882495661335,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+2369,NY,112,no,no,4,174.3,29.63,0.8100475230819043,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2964,OR,99,no,no,3,256.4,43.59,0.8096305122248124,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+1845,NC,80,yes,no,2,189.1,32.15,0.8090526931969249,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+372,CA,151,yes,no,0,218.0,37.06,0.8087040058055558,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+3323,IN,117,no,no,5,118.4,20.13,0.8081669311983223,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1651,CT,64,yes,no,1,225.3,38.3,0.8080944914324727,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1405,MT,125,no,no,4,143.2,24.34,0.807825892569287,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1933,PA,119,no,no,1,260.1,44.22,0.8071719535809657,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+1702,OR,140,no,no,4,120.3,20.45,0.8057759959060398,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+54,WY,87,no,no,5,151.0,25.67,0.8054888754152844,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+21,CO,77,no,no,5,62.4,10.61,0.803871300131451,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+10,IN,65,no,no,4,129.1,21.95,0.8025130666098335,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1614,MT,184,no,no,1,236.4,40.19,0.8023739167929919,Risiko Tinggi,False,Voucher Retensi & Penyesuaian Paket
+1804,CT,125,yes,no,0,187.3,31.84,0.8014500296137338,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1269,FL,55,no,yes,4,130.5,22.19,0.8014283876225059,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1950,TX,52,no,no,4,155.0,26.35,0.8011691182934584,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1192,MD,88,yes,no,4,235.1,39.97,0.8008234255640067,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+1000,MI,133,no,no,2,277.3,47.14,0.8000491360509718,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+1038,CA,112,no,no,5,111.9,19.02,0.7965830688263383,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1978,RI,106,yes,no,3,204.0,34.68,0.7961915241350453,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+1407,MS,73,no,yes,6,82.3,13.99,0.7957751790555446,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2432,PA,75,no,no,4,109.0,18.53,0.7956654965488485,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1533,WY,127,yes,no,2,242.2,41.17,0.7950395165139994,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+2784,MD,119,no,no,3,239.1,40.65,0.7931764649903995,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+48,ID,119,no,no,5,159.1,27.05,0.7930347124482247,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2160,NV,94,yes,no,1,89.5,15.22,0.7930099662370632,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+2672,MS,65,yes,no,0,277.9,47.24,0.7927519993042722,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang + Optimasi Paket Tarif Internasional Hemat
+730,WY,94,no,no,3,271.2,46.1,0.7927106749906946,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+1694,VT,99,no,no,7,115.5,19.64,0.7917508909128608,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+569,NC,133,yes,yes,2,221.1,37.59,0.7912106374463629,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1861,MA,119,yes,yes,0,147.2,25.02,0.7909015844277117,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1765,NM,111,no,no,4,132.6,22.54,0.789392202410097,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+3320,GA,122,yes,no,4,140.0,23.8,0.7876852717847005,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+1322,DE,2,yes,no,2,132.1,22.46,0.7868019303652943,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+3246,NC,77,yes,yes,0,103.2,17.54,0.7867738431069135,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+3125,IA,40,no,no,4,169.7,28.85,0.7853318953765439,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+3019,TX,169,no,no,3,266.7,45.34,0.7853257619418466,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+1299,UT,49,no,no,2,266.3,45.27,0.7850535911820666,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2324,LA,124,no,no,4,143.3,24.36,0.784790032343563,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+649,MO,79,no,no,3,261.7,44.49,0.7832925448335463,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+547,VT,95,yes,yes,5,136.8,23.26,0.7821079570618011,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+3166,AR,54,no,no,2,247.5,42.08,0.7809065049739099,Risiko Tinggi,False,Voucher Retensi & Penyesuaian Paket
+230,MD,93,yes,no,0,312.0,53.04,0.7802982128914319,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang + Optimasi Paket Tarif Internasional Hemat
+1935,MD,108,yes,yes,3,130.1,22.12,0.7802575871730859,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+2479,ID,116,yes,yes,3,162.3,27.59,0.7795573297425311,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+2343,TN,120,yes,no,1,179.9,30.58,0.7794930107721778,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1077,NY,108,no,no,4,154.2,26.21,0.778864330097397,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+944,NV,81,no,yes,4,167.9,28.54,0.7776479620704445,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2828,MS,123,yes,no,4,125.5,21.34,0.7769882237336204,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+1376,OH,65,no,no,4,245.7,41.77,0.7769366261184445,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2186,NM,41,no,no,3,232.1,39.46,0.7767121609742302,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1193,NM,119,yes,yes,5,160.0,27.2,0.7766014189144512,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+2218,MI,116,no,no,5,133.3,22.66,0.7755141032814421,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2489,RI,143,no,no,4,167.8,28.53,0.7753387422547128,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2069,OR,53,no,no,0,261.2,44.4,0.7743918495925852,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2158,FL,166,yes,no,0,47.7,8.11,0.7727764110041211,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+293,CT,96,no,yes,5,172.7,29.36,0.7727516607722128,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2619,ND,147,yes,yes,3,157.5,26.78,0.7723094102034236,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+1493,MT,126,no,yes,4,153.4,26.08,0.7712953791608628,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1142,UT,105,no,no,6,106.4,18.09,0.769489711621368,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2724,NJ,182,no,no,2,279.1,47.45,0.7692746533728281,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+894,ME,97,no,no,4,120.8,20.54,0.7681337704937571,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1435,IL,89,yes,yes,0,112.6,19.14,0.7645880913945379,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+3224,IN,115,no,no,3,226.4,38.49,0.7641371872416123,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1337,WY,97,yes,no,0,236.9,40.27,0.7639977601195787,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+197,TX,208,no,no,2,326.5,55.51,0.7619338045072888,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+588,OK,101,no,no,5,89.7,15.25,0.7593305355078961,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+550,AK,111,no,no,4,172.8,29.38,0.7587205965657512,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1537,ME,118,yes,yes,4,156.5,26.61,0.7585258978105128,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+3023,MT,103,no,yes,4,110.5,18.79,0.757254653458486,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2526,NJ,57,yes,no,0,115.0,19.55,0.7569699800931162,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+3247,OK,146,no,no,4,138.4,23.53,0.7565268730448143,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+465,NV,71,yes,no,3,178.2,30.29,0.7554882467873932,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+574,WV,44,no,no,2,228.1,38.78,0.7543579907189977,Risiko Tinggi,False,Voucher Retensi & Penyesuaian Paket
+2901,MT,85,no,yes,4,89.8,15.27,0.7521173992099074,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+319,SD,128,yes,yes,2,223.5,38.0,0.7503695836811111,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+977,GA,93,no,yes,4,134.2,22.81,0.7496911696506035,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2591,ND,122,no,no,1,231.2,39.3,0.7493080939382359,Risiko Tinggi,False,Voucher Retensi & Penyesuaian Paket
+2139,VA,92,yes,no,3,252.3,42.89,0.7489917586036859,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang + Optimasi Paket Tarif Internasional Hemat
+2960,TX,1,no,no,5,182.1,30.96,0.7485345594324396,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1880,CT,56,no,no,4,162.3,27.59,0.7464724305565947,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2816,ID,130,no,no,1,263.7,44.83,0.7443253034724735,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+69,TX,150,no,no,4,178.9,30.41,0.7442633509536537,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2150,SC,212,no,no,2,226.0,38.42,0.7412333862845544,Risiko Tinggi,False,Voucher Retensi & Penyesuaian Paket
+509,MS,118,no,yes,5,170.8,29.04,0.7380888655491046,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2468,WV,152,yes,yes,1,146.8,24.96,0.7379088904668053,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+2572,MN,152,no,no,1,317.8,54.03,0.7375485455386294,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+99,ID,77,no,no,2,251.8,42.81,0.736737637469126,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+1844,SC,77,no,yes,4,135.9,23.1,0.7353608261344564,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2786,AR,109,no,yes,6,111.2,18.9,0.7351845515527812,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+397,OR,94,no,no,1,234.4,39.85,0.7350468645350131,Risiko Tinggi,False,Voucher Retensi & Penyesuaian Paket
+2952,WY,123,no,no,5,242.2,41.17,0.7337507188854521,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+430,KS,46,no,no,2,250.3,42.55,0.7335246271433363,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+584,SD,104,no,no,0,234.2,39.81,0.7330889000272087,Risiko Tinggi,False,Voucher Retensi & Penyesuaian Paket
+1150,GA,132,no,no,5,193.3,32.86,0.7328205016227248,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+905,WV,161,no,no,4,191.9,32.62,0.7319227411080301,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1718,AZ,109,yes,no,2,268.4,45.63,0.728720680887326,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang + Optimasi Paket Tarif Internasional Hemat
+3190,ID,103,no,no,6,174.7,29.7,0.7279945698588421,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2785,MN,38,no,no,5,175.7,29.87,0.7243975624441915,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1240,TN,108,no,yes,4,162.1,27.56,0.7234047640580631,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1857,NM,107,no,no,1,222.3,37.79,0.7229600812346307,Risiko Tinggi,False,Voucher Retensi & Penyesuaian Paket
+2106,GA,128,yes,yes,0,222.1,37.76,0.7193010932611857,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+3287,KS,170,no,yes,4,199.5,33.92,0.7189232780651327,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+491,AL,55,yes,no,1,191.9,32.62,0.7126336251808811,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1653,MD,93,yes,no,1,131.4,22.34,0.7089537977258691,Risiko Tinggi,False,Optimasi Paket Tarif Internasional Hemat
+1095,ID,106,no,no,1,274.4,46.65,0.7058105285136973,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+498,ME,75,yes,no,4,211.3,35.92,0.7057894875944923,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+250,OR,33,no,yes,4,157.4,26.76,0.7055130582544432,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2421,CO,132,no,no,4,197.8,33.63,0.704962518280388,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2238,NE,61,no,no,1,267.1,45.41,0.7041929744104034,Risiko Tinggi,False,Penawaran Paket Flat-rate / Diskon Menit Siang
+2437,CA,105,no,yes,4,109.6,18.63,0.7034761990312057,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+1865,MI,146,no,no,7,149.3,25.38,0.7022687218495346,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2237,NV,88,no,no,4,166.7,28.34,0.7005202842736186,Risiko Tinggi,True,Follow-up CS Urgent & Audit Keluhan
+2387,MI,108,no,yes,6,209.5,35.62,0.6925871307692668,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan
+2402,NY,77,no,yes,5,143.0,24.31,0.6886646517735364,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan
+2283,AR,98,no,no,5,227.1,38.61,0.6738774348323658,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan
+2380,NJ,53,no,no,9,228.6,38.86,0.6729676855202396,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan
+2164,NC,115,yes,no,3,251.3,42.72,0.6661437179573054,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang + Optimasi Paket Tarif Internasional Hemat
+830,CO,121,yes,no,3,167.7,28.51,0.6588384614347589,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+2979,HI,99,no,no,7,135.7,23.07,0.6535766734065119,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan
+473,WV,72,no,yes,4,96.6,16.42,0.6514531628661772,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan
+2553,VT,67,no,no,6,260.4,44.27,0.6392391033554302,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+2673,ND,180,no,no,3,224.9,38.23,0.6371354402560356,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan
+112,AL,98,no,no,4,161.0,27.37,0.6273897011944787,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan
+851,MA,136,yes,no,3,199.6,33.93,0.6268992860255297,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+3256,AR,115,no,no,3,268.0,45.56,0.6247735046955236,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+1912,NH,103,no,no,8,150.6,25.6,0.6241112663900488,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan
+3070,MD,154,no,no,3,154.5,26.27,0.6220239231620278,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan
+1373,SC,108,no,no,4,112.0,19.04,0.609478599865151,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan
+349,FL,100,no,no,4,107.0,18.19,0.6085970301284356,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan
+507,MO,92,no,no,3,154.0,26.18,0.603482712131922,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan
+2958,NC,95,no,no,6,128.6,21.86,0.5948346957425078,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan
+771,WI,149,yes,yes,5,126.9,21.57,0.5945988044352309,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+1707,WV,50,no,no,5,131.1,22.29,0.5920517152371331,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan
+2772,WI,161,no,no,4,154.7,26.3,0.5875921352922937,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan
+466,FL,132,no,yes,3,226.2,38.45,0.5676319379116198,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan
+3157,AR,127,yes,no,4,143.2,24.34,0.5625427254818327,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+2961,KY,98,no,yes,6,168.0,28.56,0.5387147775433044,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan
+3280,AR,76,no,no,4,107.3,18.24,0.5344551295732252,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan
+1336,MS,124,no,no,3,251.5,42.76,0.5324760860487849,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang
+2539,OR,138,yes,yes,3,211.2,35.9,0.5316834403169353,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan + Optimasi Paket Tarif Internasional Hemat
+198,ME,131,yes,yes,4,292.9,49.79,0.522178189232618,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan + Penawaran Paket Flat-rate / Diskon Menit Siang + Optimasi Paket Tarif Internasional Hemat
+2622,IL,86,no,yes,4,144.8,24.62,0.5029732709212642,Risiko Sedang,True,Follow-up CS Urgent & Audit Keluhan
